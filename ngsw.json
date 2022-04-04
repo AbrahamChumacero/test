@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1649064605961,
+  "timestamp": 1649065278577,
   "index": "https://abrahamchumacero.github.io/test/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://abrahamchumacero.github.io/test/favicon.ico",
         "https://abrahamchumacero.github.io/test/index.html",
-        "https://abrahamchumacero.github.io/test/main.d2b7e2664c024f0f.js",
+        "https://abrahamchumacero.github.io/test/main.cba4d767b2ebed61.js",
         "https://abrahamchumacero.github.io/test/manifest.webmanifest",
         "https://abrahamchumacero.github.io/test/polyfills.1f615f6503c45a75.js",
         "https://abrahamchumacero.github.io/test/runtime.64a4c478f89723db.js",
@@ -52,8 +52,8 @@
     "https://abrahamchumacero.github.io/test/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://abrahamchumacero.github.io/test/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://abrahamchumacero.github.io/test/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://abrahamchumacero.github.io/test/index.html": "2b13bbdad7b2006532a6e16eb688811f6756fbf0",
-    "https://abrahamchumacero.github.io/test/main.d2b7e2664c024f0f.js": "cd9828c4cc09c4f96bc570278f02cc05cb8ed85b",
+    "https://abrahamchumacero.github.io/test/index.html": "dad59927a9b7a8d30c0e0a5445fcc9dde6b33662",
+    "https://abrahamchumacero.github.io/test/main.cba4d767b2ebed61.js": "11ebbfc6e58528b823dee9537cd4b693edc76508",
     "https://abrahamchumacero.github.io/test/manifest.webmanifest": "15833f4897f98f59aa5c47ebf686ce4462969070",
     "https://abrahamchumacero.github.io/test/polyfills.1f615f6503c45a75.js": "5db53e33d6de8da25b652053d5e7c69cc7136e37",
     "https://abrahamchumacero.github.io/test/runtime.64a4c478f89723db.js": "49fa9038357f3db0130e1219265c8b5582c37349",
